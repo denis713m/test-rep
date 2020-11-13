@@ -1,0 +1,1 @@
+alert('Privet 2');
